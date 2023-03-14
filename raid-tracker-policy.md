@@ -7,13 +7,15 @@ This privacy policy governs the use of the "Raid Tracker" mobile application dev
 By downloading and using the "Raid Tracker" application, you agree to the terms of this privacy policy.
 
 ## Collection and Use of Information
-The "Raid Tracker" application collects location data to calculate the distance you have traveled while using the application. This data is necessary for the proper functioning of the application and is not shared with anyone.
+The "Raid Tracker" application reads location data to calculate the distance you have traveled while using the application. This data is necessary for the proper functioning of the application and is not shared with anyone.
 
 The "Raid Tracker" application does not collect or store any location data at any time, even on your device. The location data is processed in real-time and is not stored or transmitted to any servers or third-party services.
 
 The "Raid Tracker" application also requests access to your device's location in the background for proper functioning. This data is not stored or shared and is only processed in real-time.
 
 The "Raid Tracker" application does not collect any other personal information from users.
+
+We repeat, "Raid Tracker" NEEDS TO READ FINE LOCATION ON REAL TIME AND IN BACKGROUND TO CALCULATE TRAVELLED DISTANCE, OTHERWISE THE APP WILL NOT WORK.
 
 ## Data Retention and Security
 As mentioned above, the "Raid Tracker" application does not store any location data, and all processing is done in real-time. The application takes reasonable measures to ensure the security and integrity of the location data processed from users.
